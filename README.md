@@ -13,5 +13,5 @@
 
 #### The spots are marked by numbers and the camera inside the garage detects a number on the ground this means this spot is empty and it sends a signal to the arduino controller at the gate telling it which spots are available for the comming cars
 
-### You will find a video of the whole project exlained and working in the link below.
+### You will find a video of the whole project explained and working in the link below.
 [Explanation](https://drive.google.com/drive/u/0/folders/1Idz0HSahc6OjwdI8v-egtqUrqa1SZp9e)
